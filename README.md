@@ -1,11 +1,11 @@
 # IGC_for_MVs
-Information granule-based classifier for missing data
+Information granule-based classifier for complete and incomplete datasets
 
 Matlab code for Knowledge-Based Systems 2021 "Information granule-based classifier: A development of granular imputation of missing data"
 
 The main function: classifier_f.m
 
-datasets: iris.mat  from UCI dataset repository 
+datasets: iris.mat  from UCI datasets repository 
 
 Please cite:
 
